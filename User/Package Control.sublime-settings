@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"Clipboard Manager",
+		"Diffy",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Google Spell Check",
+		"LESS",
+		"SideBarEnhancements",
+		"SML (Standard ML)",
+		"StyleToken",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeREPL",
+		"SyncedSideBar",
+		"TrailingSpaces",
+		"Zen Tabs"
+	]
+}

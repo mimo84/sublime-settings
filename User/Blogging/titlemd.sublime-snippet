@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+Title: ${1}
+Date: ${3:ctrl+shift+,}
+Slug: ${3}
+Author: Maurizio Napoleoni
+Summary: ${4}
+Tags: ${5:AngularJS}
+Category: ${6:JavaScript}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>mdtitle</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger 
+  <scope>source.md</scope>-->
+</snippet>

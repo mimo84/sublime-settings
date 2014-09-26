@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+:title: ${1:title here}
+:slug: ${2:slug here}
+:date: ${3:ctrl+shift+,}
+:tags: ${4:angularjs}
+:category: ${5:JavaScript}
+:meta_description: ${6:meta}
+
+${7:title}
+================================================
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>title</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.rst</scope>
+</snippet>

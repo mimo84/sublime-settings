@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/User/Solarized (Light) (SL).tmTheme",
+	"dictionary": "Packages/Dictionaries/English (British).dic",
+	"find_selected_text": true,
+	"font_size": 12,
+	"highlight_modified_tabs": true,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		""
+	],
+	"spell_check": true
+}
