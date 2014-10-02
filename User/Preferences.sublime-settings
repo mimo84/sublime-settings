@@ -1,13 +1,16 @@
 {
-	"color_scheme": "Packages/User/Solarized (Light) (SL).tmTheme",
+	"color_scheme": "Packages/User/Solarized (Dark) (SL).tmTheme",
 	"dictionary": "Packages/Dictionaries/English (British).dic",
 	"find_selected_text": true,
-	"font_size": 12,
+	"font_size": 14,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
 	"ignored_packages":
 	[
 		""
 	],
-	"spell_check": true
+	"spell_check": true,
+	"dictionary": "Packages/User/Dictionaries/English_Australian.dic",
+	"dictionary": "Packages/User/Dictionaries/English_British.dic",
+	"dictionary": "Packages/User/Dictionaries/English_Canadian.dic"
 }
