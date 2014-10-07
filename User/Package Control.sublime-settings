@@ -6,6 +6,7 @@
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
+		"GitGutter",
 		"Google Spell Check",
 		"LESS",
 		"SideBarEnhancements",
@@ -15,6 +16,7 @@
 		"SublimeLinter-jshint",
 		"SublimeREPL",
 		"SyncedSideBar",
+		"Theme - Flatland",
 		"TrailingSpaces",
 		"Zen Tabs"
 	]

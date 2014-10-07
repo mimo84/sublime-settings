@@ -1,8 +1,10 @@
 {
 	"color_scheme": "Packages/User/Solarized (Dark) (SL).tmTheme",
-	"dictionary": "Packages/Dictionaries/English (British).dic",
+	"dictionary": "Packages/User/Dictionaries/English_British.dic",
 	"find_selected_text": true,
-	"font_size": 14,
+	"flatland_sidebar_tree_medium": true,
+	"flatland_square_tabs": true,
+	"font_size": 12,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
 	"ignored_packages":
@@ -10,7 +12,5 @@
 		""
 	],
 	"spell_check": true,
-	"dictionary": "Packages/User/Dictionaries/English_Australian.dic",
-	"dictionary": "Packages/User/Dictionaries/English_British.dic",
-	"dictionary": "Packages/User/Dictionaries/English_Canadian.dic"
+	"theme": "Flatland Dark.sublime-theme"
 }
