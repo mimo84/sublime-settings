@@ -11,6 +11,7 @@
 	[
 		""
 	],
+	"save_on_focus_lost": true,
 	"spell_check": true,
 	"theme": "Flatland Dark.sublime-theme"
 }
