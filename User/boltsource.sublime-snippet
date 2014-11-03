@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+source('amd', 'ephox.${1:module}', '../../../${1:module}/src/main/js', mapper.hierarchical),
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>source</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>
