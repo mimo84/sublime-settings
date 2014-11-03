@@ -1,4 +1,5 @@
 {
+	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
 	"dictionary": "Packages/User/Dictionaries/English_British.dic",
 	"find_selected_text": true,
@@ -13,6 +14,5 @@
 	],
 	"save_on_focus_lost": true,
 	"spell_check": true,
-	"theme": "Flatland Dark.sublime-theme",
-  "auto_complete_commit_on_tab": true
+	"theme": "Flatland Dark.sublime-theme"
 }
