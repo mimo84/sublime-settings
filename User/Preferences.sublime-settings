@@ -5,15 +5,17 @@
 	"find_selected_text": true,
 	"flatland_sidebar_tree_medium": true,
 	"flatland_square_tabs": true,
-	"font_size": 12,
+	"font_size": 14,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		""
+		"",
+		"Markdown"
 	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": true,
+	"show_full_path": true,
 	"spell_check": true,
 	"theme": "Flatland Dark.sublime-theme"
 }

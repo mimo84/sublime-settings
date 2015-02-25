@@ -6,6 +6,10 @@ User/bh_unicode_properties.cache
 SublimeLinter
 Rails
 HTML
+bz2/*
+FileZilla SFTP Import/*
+SFTP/*
+SublimeHaskell/*
 .DS_Store
 
 User/Package Control.last-run

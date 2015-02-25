@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-window.${1:debug} = ${1:debug};
+window.${1:debug}debug = ${1:debug};
 console.log("${1:debug} ", ${1:debug});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

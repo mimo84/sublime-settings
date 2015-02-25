@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Clipboard Manager",
@@ -6,13 +9,20 @@
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
+		"FileZilla SFTP Import",
 		"GitGutter",
 		"Google Spell Check",
 		"Javascript Beautify",
 		"LESS",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"Package Control",
+		"PureScript",
+		"SFTP",
 		"SideBarEnhancements",
 		"SML (Standard ML)",
 		"StyleToken",
+		"SublimeHaskell",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeREPL",
