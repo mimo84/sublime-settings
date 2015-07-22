@@ -1,6 +1,6 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/Solarized (Dark) (SL).tmTheme",
 	"dictionary": "Packages/User/Dictionaries/English_British.dic",
 	"find_selected_text": true,
 	"flatland_sidebar_tree_medium": true,
@@ -10,7 +10,7 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"",
+		"Vintage",
 		"Markdown"
 	],
 	"save_on_focus_lost": true,

@@ -4,31 +4,24 @@
 	],
 	"installed_packages":
 	[
-		"Clipboard Manager",
-		"Diffy",
 		"DocBlockr",
 		"Emmet",
-		"FileDiffs",
-		"FileZilla SFTP Import",
 		"GitGutter",
-		"Google Spell Check",
 		"Javascript Beautify",
-		"LESS",
-		"Markdown Extended",
-		"MarkdownEditing",
 		"Package Control",
-		"PureScript",
-		"SFTP",
 		"SideBarEnhancements",
-		"SML (Standard ML)",
 		"StyleToken",
-		"SublimeHaskell",
+		"SublimeHighlight",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
-		"SublimeREPL",
 		"SyncedSideBar",
 		"Theme - Flatland",
 		"TrailingSpaces",
+		"Vintageous",
 		"Zen Tabs"
+	],
+	"repositories":
+	[
+		"https://github.com/n1k0/SublimeHighlight.git"
 	]
 }
